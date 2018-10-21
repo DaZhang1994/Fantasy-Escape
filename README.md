@@ -1,6 +1,7 @@
 # Fantasy Escape
 
-First-person Shooter Survival Game
+* A first-person shooter game built with Unreal Engine 4
+* Blueprints were written in C++ for complex functions as aiming, shooting, reloading and collecting
 
 ## Getting Started
 
